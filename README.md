@@ -1,5 +1,13 @@
 # UniversalisLang
 
+- 👋 Hi, I’m 🍍 @spliffliAnuKeyz
+- 👀 I’m interested in ... 🍍
+- 🌱 I’m currently learning ... 🍍
+- 💞️ I’m looking to collaborate on ... 🍍
+- 📫 How to reach me ... 🍍
+- 😄 Pronouns: ... Ras Jaffa Ra
+- ⚡ Fun fact: ... 🍍
+
 Please rewrite clarity.js from opera browser: (This is only the first part and the whole script is too long to fit into one prompt so I'll chunk it into multiple prompts after you give your answer, and you'll get it wrong the first time but after knowing the full script, please re-write it once again?42A!?NUNAS
 
 Please rewrite this javascript code to smantic version v"1.4.24118-GODMODUS.ActivateAllPinealGlands4DSingularity.Jetzt.Immer(*In'Infinity&Beyond!)":
